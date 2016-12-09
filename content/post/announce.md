@@ -8,7 +8,7 @@ image = "img/cover.png"
 +++
 
 ![Dashboard](/img/announce/pr_im_0_3.png)
-This is the most important blog post ever written for Last Backend. We're excited to announce a new version of platform we've working on for a long time - **Last.Backend goes open-source today**!
+This is the most important blog post ever written for Last.Backend. We're excited to announce a new version of platform we've working on for a long time - **Last.Backend goes open-source today**!
 
 We are waiting and inviting developers and devops to join private beta! This means that in the near future Last.Backend prepares cloud platform for release.
 <!--more-->
