@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Last.Backend Blog</title>
+    <link>https://blog.lastbackend.com/categories/press-release/index.xml</link>
+    <description>Recent content on Last.Backend Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved - 2016</copyright>
+    <atom:link href="https://blog.lastbackend.com/categories/press-release/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Last.Backend goes to be open-source today</title>
+      <link>https://blog.lastbackend.com/post/opensource/</link>
+      <pubDate>Thu, 08 Dec 2016 21:21:55 +0300</pubDate>
+      
+      <guid>https://blog.lastbackend.com/post/opensource/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://blog.lastbackend.com/img/announce/pr_im_0_3.png&#34; alt=&#34;Dashboard&#34; /&gt;
+This is the most important blog post ever written for Last Backend. We&amp;rsquo;re excited to announce a new version of platform we&amp;rsquo;ve working on for a long time - &lt;strong&gt;Last.Backend goes open-source today&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;We are waiting and inviting developers and devops to join private beta! This means that in the near future Last.Backend prepares cloud platform for release.
+
+Last.Backend Cloud Platform is the PaaS built on top of Kubernetes. It designed to help developers write great cloud-based applications without having to worry about managing the underlying infrastructure.
+&lt;img src=&#34;https://blog.lastbackend.com/img/announce/pr_im_4.png&#34; alt=&#34;Dashboard&#34; /&gt;
+Our Platform doing all routine infrastructure work for you. It is an end-2-end solution: &lt;strong&gt;from code to app in the cloud&lt;/strong&gt;. We are developing an open-source platform each can use today.&lt;/p&gt;
+
+&lt;p&gt;We are making last changes before soft launch our cloud solution.
+It is based on top of our open-source platform but powered with new material style dashboard and other infrastructure critical tools.
+Our bare-metal servers located around the world and waiting for your apps.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://blog.lastbackend.com/img/announce/cli_3.gif&#34; alt=&#34;Sources&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Benefits!!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Last.Backend provides some benefits for active contributors, via &lt;strong&gt;20% discount&lt;/strong&gt; for our cloud resources. So we are always happy for your forks, ideas, and PRs with something amazing.
+Our roadmap and documentation you can see in our repo and in Trello. We are using these tools to be more open to you. Vote for features and we’ll try to make it as fast as possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Feedback needed&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Our team is always online to help. Write us any questions by email, slack, Freenode or in Github. We are making this platform for you, so we would like to hear your feedback.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Join early beta on our landing page: &lt;a href=&#34;https://lastbackend.com&#34;&gt;https://lastbackend.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Join us on github: &lt;a href=&#34;https://github.com/lastbackend/lastbackend&#34;&gt;https://github.com/lastbackend/lastbackend&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sincerely yours Last.Backend team.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
