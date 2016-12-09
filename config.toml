@@ -15,7 +15,7 @@ canonifyurls = true
   authorwebsite = "https://lastbackend.com"
   bio= ""
   logo = "img/logo.png"
-  googleAnalyticsUserID = "UA-50023825-7"
+  googleAnalyticsUserID = "UA-50023825-4"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = "http://feeds.feedburner.com/lastbackend"
   githubName = "lastbackend"
