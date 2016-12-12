@@ -1,6 +1,7 @@
 baseurl = "https://blog.lastbackend.com/"
 title = "Last.Backend Blog"
 languageCode = "en-us"
+theme = "lastbackend"
 
 paginate = 5
 DisqusShortname = "lastbackend"

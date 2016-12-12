@@ -35,3 +35,9 @@ Our team is always online to help. Write us any questions by email, slack, Freen
 - Join us on github: https://github.com/lastbackend/lastbackend 
 
 Sincerely yours Last.Backend team.
+
+<div class="text-center">
+  <a href="https://lastbackend.com" target="_blank">
+    <button class="btn-primary">visit Last.Backend</button>
+  </a>
+</div>
