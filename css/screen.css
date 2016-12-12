@@ -508,6 +508,28 @@ body.nav-opened .site-wrapper {
 }
 
 
+.btn-primary {
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    padding: 10px 40px;
+    font-size: 16px;
+    border-radius: 3px;
+    background-color: #5793ff;
+    box-shadow: 0 3px 7px 0 rgba(0, 0, 0, 0.15);
+    color: #ffffff;
+    line-height: 1.715;
+    margin: 15px 0;
+    border: none;
+}
+
 /* ==========================================================================
    4. General - The main styles for the the theme
    ========================================================================== */

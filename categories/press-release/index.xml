@@ -44,7 +44,13 @@ Our roadmap and documentation you can see in our repo and in Trello. We are usin
 &lt;li&gt;Join us on github: &lt;a href=&#34;https://github.com/lastbackend/lastbackend&#34;&gt;https://github.com/lastbackend/lastbackend&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Sincerely yours Last.Backend team.&lt;/p&gt;</description>
+&lt;p&gt;Sincerely yours Last.Backend team.&lt;/p&gt;
+
+&lt;div class=&#34;text-center&#34;&gt;
+  &lt;a href=&#34;https://lastbackend.com&#34; target=&#34;_blank&#34;&gt;
+    &lt;button class=&#34;btn-primary&#34;&gt;visit Last.Backend&lt;/button&gt;
+  &lt;/a&gt;
+&lt;/div&gt;</description>
     </item>
     
   </channel>
